@@ -1,0 +1,10 @@
+Name: Hassan Naveed
+
+Program: BSIT
+
+Semester: 1st Semester
+
+Learning Goals:
+1. Learn C++ programming.
+2. Understand Python programming.
+3. Learn Git and GitHub.
